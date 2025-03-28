@@ -1,1 +1,1 @@
-Download 0.zip from releases and unzip.
+Download 0.zip from Releases and unzip.
